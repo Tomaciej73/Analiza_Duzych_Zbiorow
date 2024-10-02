@@ -1,3 +1,3 @@
 # Analiza_Duzych_Zbiorow  
-Tomasz Karkulowski
+Tomasz Karkulowski  
 Data Science 2grp 163105
