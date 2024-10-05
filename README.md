@@ -1,4 +1,4 @@
-# Analiza_Duzych_Zbiorow    
+# Analiza_Duzych_Zbiorow 2024    
 Tomasz Karkulowski 163105  
 Prowadzący: **Krzysztof Ropiak**  
 Dane treningowe .parquet:  
