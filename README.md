@@ -1,2 +1,2 @@
 # Lab 04
-[LINK](https://github.com/kropiak/uwm_analiza_duzych_zbiorow/blob/main/lab_01/lab_04.ipynb)
+[LINK](https://github.com/kropiak/uwm_analiza_duzych_zbiorow/blob/main/lab_04/lab_04.ipynb)
