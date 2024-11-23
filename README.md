@@ -1,2 +1,2 @@
-# Lab 04
-[LINK](https://github.com/kropiak/uwm_analiza_duzych_zbiorow/blob/main/lab_04/lab_04.ipynb)
+# Lab 06
+[LINK](https://github.com/kropiak/uwm_analiza_duzych_zbiorow/blob/main/lab_06/02_pyspark_dataframes.ipynb)
