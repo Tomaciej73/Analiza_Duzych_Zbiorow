@@ -1,2 +1,2 @@
-# Lab 07
-[LINK](https://github.com/kropiak/uwm_analiza_duzych_zbiorow/tree/main/lab_07)
+# Lab 10
+[LINK](https://github.com/kropiak/uwm_analiza_duzych_zbiorow/tree/main/lab_10)
