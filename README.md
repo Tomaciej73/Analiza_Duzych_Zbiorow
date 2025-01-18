@@ -1,2 +1,2 @@
-# Projekt analiza logów z apache (access + error)
-- Spark (3.5.3) + Java (8) + Python 3.10
+# Projekt dotyczący punktualności linii lotniczych i przyczyny opóźnień
+- Dask 2024.8.0 + Python 3.9
